@@ -16,7 +16,7 @@ Along this path, I'm continuously developing myself in various fields and embrac
 
 📫 To contact me: **[yalazmehmetjs@gmail.com](mailto:yalazmehmetjs@gmail.com)**
 
----
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 ## 🌐 Socials:
 [![Github](https://img.shields.io/badge/Github-%2324192eDA.svg?logo=github&logoColor=white)](https://github.com/Yalaz0/Yalaz0)
