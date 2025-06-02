@@ -21,9 +21,7 @@ Along this path, I'm continuously developing myself in various fields and embrac
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 ## 🌐 Socials:
-[![Github](https://img.shields.io/badge/Github-%2324192eDA.svg?logo=github&logoColor=white)](https://github.com/Yalaz0/Yalaz0)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mehmetyalazz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-yalaz)
+<p align="center"> <a href="https://github.com/Yalaz0" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"></a> &nbsp; <a href="https://www.linkedin.com/in/mehmet-yalaz" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"></a> &nbsp; <a href="https://instagram.com/mehmetyalazz" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"></a> &nbsp; <a href="mailto:yalazmehmetjs@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"></a> </p>
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
