@@ -18,11 +18,6 @@ Along this path, I'm continuously developing myself in various fields and embrac
 
 📫 To contact me: **[yalazmehmetjs@gmail.com](mailto:yalazmehmetjs@gmail.com)**
 
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDgzZDRoN2pmeDNiYnljNnBiOGphcHJ5NGRoZXlhcjRmYjJpNTRsNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SVCSsoKU5v6ZJLk07n/giphy.gif" width="615.2" />
-</p>
-
-
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
