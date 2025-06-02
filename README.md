@@ -8,7 +8,12 @@
 </p>
 </br>
 
-Ben Mehmet Yalaz, Yönetim Bilişim Sistemleri öğrencisiyim. Yazılım ve veri projeleriyle edindiğim deneyimleri, yapay zeka ve teknoloji odaklı çözümler üretme vizyonuyla birleştiriyorum. Sürekli öğrenmeye açık, yenilikleri takip eden ve işbirliğine değer veren bir bakış açısıyla geleceğe hazırlanıyorum.
+Merhaba, ben Mehmet Yalaz.
+Teknolojiyle şekillenen bir dünyada, veriyi anlamlandırmayı, yazılımı etkili bir araç olarak kullanarak değer üretmeyi ve sürekli gelişmeyi hedefleyen bir yolculuğun içindeyim.
+Yönetim Bilişim Sistemleri öğrencisi olarak; kod yazmayı, veriyle çalışmayı ve teknolojiyi insanların hayatını kolaylaştıran çözümlere dönüştürmeyi seviyorum.
+Bu yolda birçok farklı alanda kendimi geliştiriyor; öğrenmeyi ve gelişmeyi yaşam biçimi olarak benimsiyorum.
+
+
 
 📫 Bana ulaşmak için: **[yalazmehmetjs@gmail.com](mailto:yalazmehmetjs@gmail.com)**
 
