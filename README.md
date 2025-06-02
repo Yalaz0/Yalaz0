@@ -38,6 +38,7 @@ Ben Mehmet Yalaz, Yönetim Bilişim Sistemleri öğrencisiyim. Yazılım ve veri
 
 ![snake gif](https://raw.githubusercontent.com/Yalaz0/Yalaz0/output/github-snake-dark.svg)
 
+
 ---
 
 <details>
