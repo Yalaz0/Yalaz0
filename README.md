@@ -38,12 +38,12 @@ Along this path, I'm continuously developing myself in various fields and embrac
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=plastic&logo=Jupyter&logoColor=white)
 ![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=plastic&logo=google-colab&logoColor=white)
 
----
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 ![snake gif](https://raw.githubusercontent.com/Yalaz0/Yalaz0/output/github-snake-dark.svg)
 
 
----
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 <details>
 <summary>Check out my GitHub stats 📊⬇️</summary>
