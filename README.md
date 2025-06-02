@@ -1,16 +1,62 @@
-## Hi there 👋
+# 💫 About Me:
 
-<!--
-**Yalaz0/Yalaz0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="100">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+World+%F0%9F%91%8B%2C+I'm+Mehmet+Yalaz." alt="Typing SVG" />
+  </a>
+</p>
+</br>
 
-Here are some ideas to get you started:
+Ben Mehmet Yalaz, Yönetim Bilişim Sistemleri öğrencisiyim. Yazılım ve veri projeleriyle edindiğim deneyimleri, yapay zeka ve teknoloji odaklı çözümler üretme vizyonuyla birleştiriyorum. Sürekli öğrenmeye açık, yenilikleri takip eden ve işbirliğine değer veren bir bakış açısıyla geleceğe hazırlanıyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Bana ulaşmak için: **[yalazmehmetjs@gmail.com](mailto:yalazmehmetjs@gmail.com)**
+
+---
+
+## 🌐 Socials:
+[![Github](https://img.shields.io/badge/Github-%2324192eDA.svg?logo=github&logoColor=white)](https://github.com/Yalaz0/Yalaz0)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mehmetyalazz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-yalaz)
+
+---
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=plastic&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=plastic&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=plastic&logo=sqlite&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=flutter&logoColor=white)
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=plastic&logo=Jupyter&logoColor=white)
+![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=plastic&logo=google-colab&logoColor=white)
+
+---
+
+![snake gif](https://github.com/Yalaz0/Yalaz0/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+<details>
+<summary>Check out my GitHub stats 📊⬇️</summary>
+
+![Mehmet Yalaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yalaz0&show_icons=true&theme=tokyonight&rank_icon=percentile&include_all_commits=true&count_private=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yalaz0&langs_count=8&theme=tokyonight&hide_border=true&layout=compact)
+
+![Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yalaz0&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=Yalaz0&radius=6&theme=tokyo-night&hide_border=true)
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yalaz0&theme=tokyonight" width="30%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yalaz0&theme=tokyonight" width="30%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yalaz0&theme=tokyonight" width="30%"/>
+</p>
+
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yalaz0&theme=tokyonight&hide_border=true)
+
+</details>
