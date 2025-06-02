@@ -28,7 +28,7 @@ Along this path, I'm continuously developing myself in various fields and embrac
 # 💻 Tech Stack:
 
 <p align="center">
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,cs,sqlite,flutter,html,css,js,react,django,jupyter,colab,git,github,vscode,linux,windows,bootstrap,figma" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,cs,sqlite,flutter,html,css,js,react,django,anaconda,git,github,vscode,linux,windows,bootstrap,figma" /> </p>
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
