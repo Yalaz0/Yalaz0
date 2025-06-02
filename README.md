@@ -26,7 +26,7 @@ Along this path, I'm continuously developing myself in various fields and embrac
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 # 💻 Tech Stack:
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,cs,sqlite,flutter,html,css,js,react,django,jupyter,colab,git,github,vscode,linux,windows,bootstrap,figma" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,cs,sqlite,flutter,html,css,js,react,django,git,github,vscode,linux,windows,bootstrap,figma" /> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="30" title="Jupyter" /> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Google_Colaboratory_Logo.svg" height="30" title="Google Colab" /> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Anaconda_Logo.png" height="30" title="Anaconda" /> </p>
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
