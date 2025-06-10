@@ -13,7 +13,7 @@
 Hi, I'm Mehmet Yalaz.
 In a world shaped by technology, I'm on a journey driven by the goal of making sense of data, using software as a powerful tool to create value, and constantly improving myself.
 As a Management Information Systems student, I enjoy coding, working with data and transforming technology into solutions that make people's lives easier.
-Along this path, I'm continuously developing myself in various fields and embracing learning and growth as a way of life.
+Along this path I'm continuously developing myself in various fields and embracing learning and growth as a way of life.
 
 
 📫 To contact me: **[yalazmehmetjs@gmail.com](mailto:yalazmehmetjs@gmail.com)**
